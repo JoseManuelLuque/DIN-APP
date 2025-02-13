@@ -18,13 +18,13 @@ Esta aplicación permite a los usuarios registrarse e iniciar sesión en un ento
 
 ### 2. Índice
 
-1. [#introduccion](manual-de-usuario.md#introduccion "mention")
-2. [#id-4.-requisitos-del-sistema](manual-de-usuario.md#id-4.-requisitos-del-sistema "mention")Requisitos del Sistema
-3. [#id-5.-instalacion-y-configuracion-inicial](manual-de-usuario.md#id-5.-instalacion-y-configuracion-inicial "mention")Instalación y Configuración Inicial
-4. [#id-6.-navegacion-y-funcionalidades-basicas](manual-de-usuario.md#id-6.-navegacion-y-funcionalidades-basicas "mention")Navegación y Funcionalidades Básicas
-5. [#id-7.-resolucion-de-problemas-faq](manual-de-usuario.md#id-7.-resolucion-de-problemas-faq "mention")Resolución de Problemas
-6. [#id-8.-soporte-y-contacto](manual-de-usuario.md#id-8.-soporte-y-contacto "mention")Soporte y Contacto
-7. [#id-9.-notas-legales](manual-de-usuario.md#id-9.-notas-legales "mention")Notas Legales
+1. [#id-3.-descripcion-general](manual-de-usuario.md#id-3.-descripcion-general "mention")
+2. [#id-4.-requisitos-del-sistema](manual-de-usuario.md#id-4.-requisitos-del-sistema "mention")
+3. [#id-5.-instalacion-y-configuracion-inicial](manual-de-usuario.md#id-5.-instalacion-y-configuracion-inicial "mention")
+4. [#id-6.-navegacion-y-funcionalidades-basicas](manual-de-usuario.md#id-6.-navegacion-y-funcionalidades-basicas "mention")
+5. [#id-7.-resolucion-de-problemas-faq](manual-de-usuario.md#id-7.-resolucion-de-problemas-faq "mention")
+6. [#id-8.-soporte-y-contacto](manual-de-usuario.md#id-8.-soporte-y-contacto "mention")
+7. [#id-9.-notas-legales](manual-de-usuario.md#id-9.-notas-legales "mention")
 
 ### 3. Descripción General
 
