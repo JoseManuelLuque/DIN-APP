@@ -1,7 +1,5 @@
 # Manual Técnico
 
-## Manual Técnico de la Aplicación de Login para Android
-
 ### 1. Introducción
 
 #### Objetivo del documento
